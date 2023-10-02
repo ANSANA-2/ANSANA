@@ -14,5 +14,7 @@ It is the psuducode of browser extension, upon initialization, monitors user nav
 
 ![Revenue Model](https://github.com/ANSANA-2/ANSANA/blob/2c8664e6361d36daebc096d348b8ca9bda34e094/Revenue%20Model.png)
 
+![Business model](https://github.com/ANSANA-2/ANSANA/blob/4f14817da252ce8383d90adcd551aec6291e766f/Business%20model.jpg)
+
 
 
