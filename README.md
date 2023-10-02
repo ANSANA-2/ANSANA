@@ -3,11 +3,8 @@
 
 ### Humanizing cybersecurity policies TO Impact user behavior
 
+![Revenue Model](https://github.com/ANSANA-2/ANSANA/blob/2c8664e6361d36daebc096d348b8ca9bda34e094/Revenue%20Model.png)
 
 
-
-
-
-This project is related to t
 
 
